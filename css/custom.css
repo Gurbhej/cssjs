@@ -1,0 +1,88 @@
+.sb_title {
+  position:fixed;
+  width: 100%;
+  box-shadow: 0 0 10px black;
+  padding-bottom: 10px;
+  top:250px;
+}
+#TitleAndMenu {
+
+}
+#DIVMenu {
+    background-color: lightgrey;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    margin-top: 66px;
+    margin-left: -250px;
+    box-shadow: 0 0 10px grey inset;
+}
+#sb_left_subwrap {
+  border: 1px hidden black;
+  margin-top: 165px;
+  margin-left: 400px;
+  height: 347px;
+  box-shadow: 0 0 1px black;
+}
+#sb_rt_subwrap{
+    right: -250px;
+
+
+}
+.sb_content_image_left{
+  margin-top: 100px;
+}
+.ContentHeader{
+  margin-bottom: 10px;
+}
+.sb_content_image_center .sb_captioned_image {
+  margin-left: -400px;
+}
+.sb_content_image_center{
+  border: 1px hidden black;
+  margin-top: -255px;
+  margin-bottom: 40px;
+  margin-right: -80px !important;
+  width: 360px;
+  box-shadow: 0 0 6px black inset;
+  padding-top: 10px;
+
+}
+.Content1{
+
+  border: 1px hidden black;
+  margin-top: 400px;
+  margin-left: -620px;
+  box-shadow: 0 0 10px grey inset;
+  background-color: #EEEEEE;
+
+}
+#TDContent34 {
+  border: 1px hidden black;
+  float: right;
+  box-shadow: 0 0 10px black;
+
+}
+
+#TDContent3 {
+
+}
+
+.MediumHeader {
+    font-family: Times New Roman, Times, serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: #FDA;
+    padding: 2px 10px;
+    margin-top: 100px;
+}
+.sb_SelectedWorkDescription {
+    padding: 10px 1px 0px !important;
+    font-size: 15px !important;
+    padding-right: 5px !important;
+    display: inline-block;
+}
+.sb_SelectedWorkDescription> Div:nth-of-type(2) > div {
+  border-bottom: 2px solid white !important;
+}
